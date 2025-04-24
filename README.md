@@ -71,7 +71,7 @@ SocioDev is a mobile application built with React Native and Expo that allows de
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SocioDev.git
+   git clone https://github.com/samyakraka/SocioDev.git
    cd SocioDev
    ```
 
